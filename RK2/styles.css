@@ -1,0 +1,14 @@
+
+table{
+    border: 1px solid #FFD700;
+    color: MediumBlue;
+}
+li:nth-child(1n){
+    background-color: LightSkyBlue;
+    color: #FF4500;
+}
+
+li:nth-child(2n){
+    background-color: lightpink;
+    color: #6495ED;
+}
